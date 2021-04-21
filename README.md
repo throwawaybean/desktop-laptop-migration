@@ -14,9 +14,8 @@ Pre-requisites:
 
 Definition of options available: 
 
-**Option 1. Get All Installed Software
-Option 2. Get All Mapped Drives
-Option 3. Copy User’s Profile**
+*Option 1. Get All Installed Software*
+
 
 This option gets you the installed applications on the remote computer.
 
@@ -30,9 +29,8 @@ Once the computer name is confirmed, a grid-view of all the listed software shou
 
 You can now install these applications. The list makes the migration easier.
 
-**Option 1. Get All Installed Software
-Option 2. Get All Mapped Drives
-Option 3. Copy User’s Profile**
+**Option 2. Get All Mapped Drives**
+
 
 This option gets you the mapped drives on the remove computer, from the user profile you selected. 
 
@@ -51,9 +49,8 @@ A couple of caveats:
 
 You can now copy this and map it later once the user logs in.
 
-**Option 1. Get All Installed Software
-Option 2. Get All Mapped Drives
-Option 3. Copy User’s Profile**
+
+**Option 3. Copy User’s Profile**
 
 This option copies a user profile from a remote computer to local (where the script is being run).
 
