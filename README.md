@@ -63,13 +63,13 @@ Once you have confirmed the computer name and the username (take note: the usern
 
 This copies the following folder:
 
-Desktop
-Downloads
-Favorites
-Documents
-Pictures
-Videos
-Appdata\Local\Google
+*Desktop<br>
+Downloads<br>
+Favorites<br>
+Documents<br>
+Pictures<br>
+Videos<br>
+Appdata\Local\Google<br>*
 
 A couple of caveats:
 
