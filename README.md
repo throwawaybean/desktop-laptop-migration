@@ -14,8 +14,7 @@ Pre-requisites:
 
 Definition of options available: 
 
-*Option 1. Get All Installed Software*
-
+**Option 1. Get All Installed Software**
 
 This option gets you the installed applications on the remote computer.
 
@@ -29,8 +28,8 @@ Once the computer name is confirmed, a grid-view of all the listed software shou
 
 You can now install these applications. The list makes the migration easier.
 
-**Option 2. Get All Mapped Drives**
 
+**Option 2. Get All Mapped Drives**
 
 This option gets you the mapped drives on the remove computer, from the user profile you selected. 
 
