@@ -73,7 +73,7 @@ Appdata\Local\Google
 
 A couple of caveats:
 
-1.Enter the username/computer name correctly
-2. Open the script as an admin.
+1.Enter the username/computer name correctly<br>
+2. Open the script as an admin.<br>
 3. The remote computer should be turned in and on the network
 
